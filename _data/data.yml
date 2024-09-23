@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Giorgio Giacomotti
@@ -14,14 +14,14 @@ sidebar:
 
     # Sidebar links
     email: giacomottigiorgio@email.com
-    phone: +39 346 988 1127  CET
-    timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
+    phone: +39 346 988 1127
+    timezone: Central Europe # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Italian
     website: https://www.giacomotti.it/ # Include the full website URL, including "http://" or "https://".
     linkedin: 
     xing: 
-    github: 
-    telegram: # add your nickname without '@' sign
+    github: giaco01
+    telegram: GI4CO # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
@@ -48,13 +48,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Automotive
+        - item: Cars
           link:
 
-        - item: 
+        - item: Bodybuilding
           link:
 
-        - item: 
+        - item: Robotics
           link:
 
 career-profile:
@@ -81,7 +81,7 @@ education:
             - Bullet point
             - Bullet point
       - degree: Diploma in Scientific Studies
-        lyceum: Istituto Facchetti
+        university: Istituto Facchetti
         time: 2005 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -92,7 +92,7 @@ education:
             - Bullet point
             - Bullet point
 
-experiences:
+# experiences:
     title: Experiences
     info:
       - role: Lead Developer
@@ -132,49 +132,21 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+            
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: Certificate in Advanced English
+          start: 2018
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: 
+          credentialid: C1 Level
+          credentialurl: https://www.cambridgeenglish.org/
+          credentialname: Cambridge English
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
+# projects:
     title: Projects
     intro: >
       You can list your side projects in this
@@ -201,7 +173,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
+# oss:
     title: OSS Contributions
     intro: >
       You can list your open source software contributions in this
@@ -220,7 +192,7 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+# publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -246,23 +218,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: MacOS, Windows, Linux
+        level: 85%
+        
+      - name: Java, C, SQL
         level: 95%
 
-      - name: Ruby on Rails
+      - name: CAD & Additive Manufacturing
+        level: 75%
+        
+      - name: Microsoft Office & G-Suite
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Video Editing
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
