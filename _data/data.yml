@@ -111,29 +111,7 @@ skills:
         level: 95%
       - name: SQL
         level: 95%
-
-    toolset:
-      - name: MacOS, Windows, Linux
-        level: 95%
-        
-      - name: Java, C, SQL
-        level: 95%
-
-      - name: Microsoft Office & G-Suite
-        level: 85%
-
-    toolset:
-      - name: CAD & Additive Manufacturing
-        level: 75%
-
-      - name: Soldering
-        level: 95%
-
-      - name: Video Editing
-        level: 80%
-
-      - name: Sketch & Photoshop
-        level: 50%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
