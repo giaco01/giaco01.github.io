@@ -94,7 +94,23 @@ certifications:
           details: |
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Operating Systems
+    toolset:
+      - name: Windows
+        level: 90%
+      - name: MacOS
+        level: 90%
+      - name: Linux
+        level: 70%
+        
+    title: Programming Languages
+    toolset:
+      - name: C
+        level: 95%
+      - name: Java
+        level: 95%
+      - name: SQL
+        level: 95%
 
     toolset:
       - name: MacOS, Windows, Linux
@@ -103,14 +119,15 @@ skills:
       - name: Java, C, SQL
         level: 95%
 
-      - name: Soldering
-        level: 95%
-
       - name: Microsoft Office & G-Suite
         level: 85%
 
+    toolset:
       - name: CAD & Additive Manufacturing
         level: 75%
+
+      - name: Soldering
+        level: 95%
 
       - name: Video Editing
         level: 80%
