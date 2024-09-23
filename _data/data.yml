@@ -17,7 +17,7 @@ sidebar:
     phone: +39 346 988 1127
     timezone: Central Europe # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Italian
-    website: https://www.giacomotti.it/ # Include the full website URL, including "http://" or "https://".
+    website: giacomotti.it # Include the full website URL, including "http://" or "https://".
     linkedin: 
     xing: 
     github: giaco01
@@ -85,7 +85,6 @@ certifications:
       title: Certifications
       list:
         - name: Certificate in Advanced English
-          start:
           end: 2018
           organization: 
           credentialid: C1 Level
@@ -102,7 +101,8 @@ skills:
         level: 90%
       - name: Linux
         level: 70%
-        
+
+skills:
     title: Programming Languages
     toolset:
       - name: C
