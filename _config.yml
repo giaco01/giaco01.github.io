@@ -2,19 +2,19 @@
 
 # Site Settings
 title: GIACO
-url: 'http://webjeda.com'
+url: 'http://www.giacomotti.it'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: Giorgio Giacomotti's CV
+description: Giorgio Giacomotti&apos;s CV
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic teal oceanstale
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics: UA-83979019-1
+# analytics: UA-83979019-1
 
 # Sass/SCSS
 sass:
