@@ -17,7 +17,7 @@ sidebar:
     phone: +39 346 988 1127
     timezone:  # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Italian
-    website: giacomotti.it # Include the full website URL, including "http://" or "https://".
+    website: https://giacomotti.it # Include the full website URL, including "http://" or "https://".
     linkedin: 
     xing: 
     github: giaco01
