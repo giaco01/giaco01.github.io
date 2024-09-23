@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Giorgio Giacomotti
@@ -13,7 +13,7 @@ sidebar:
     avatar: profile4.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: giacomottigiorgio@email.com
+    email: giacomottigiorgio@gmail.com
     phone: +39 346 988 1127
     timezone: Central Europe # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Italian
@@ -60,44 +60,33 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra
-      ut risus ac ultricies. Pellentesque habitant morbi tristique senectus et netus
-      et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus
-      orci luctus et ultrices posuere cubilia curae; Nunc accumsan enim risus, vitae
-      facilisis velit imperdiet ac. Curabitur gravida luctus mauris, quis euismod
-      tellus semper ut. 
+      I was born in Treviglio in 2001 and have always been a creative and inventive individual.
+      My passion for electronics and computer science led me to attend the Scientific Lyceum at
+      the Istituto Facchetti. Currently, I am pursuing a degree in Computer Engineering at the
+      University of Pavia. I am known for being detail-oriented and rigorous, while also possessing
+      strong adaptability skills. I thrive on challenges, continually seeking more difficult ones
+      to learn new things and expand my skill set. 
+
 education:
     title: Education
     info:
-      - degree: -pending-
+      - degree: Currently pursuing a degree in Computer Engineering
         university: Università di Pavia
-        time: 2021 - 2024
+        time: 2021 - 
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - degree: Diploma in Scientific Studies
         university: Istituto Facchetti
         time: 2005 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 
 certifications:
       title: Certifications
       list:
         - name: Certificate in Advanced English
-          start: 2018
-          end:
+          start:
+          end: 2018
           organization: 
           credentialid: C1 Level
           credentialurl: https://www.cambridgeenglish.org/
@@ -109,22 +98,25 @@ skills:
 
     toolset:
       - name: MacOS, Windows, Linux
-        level: 85%
+        level: 95%
         
       - name: Java, C, SQL
         level: 95%
 
-      - name: CAD & Additive Manufacturing
-        level: 75%
-        
+      - name: Soldering
+        level: 95%
+
       - name: Microsoft Office & G-Suite
         level: 85%
+
+      - name: CAD & Additive Manufacturing
+        level: 75%
 
       - name: Video Editing
         level: 80%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
