@@ -77,7 +77,7 @@ education:
 
       - degree: Diploma in Scientific Studies
         university: Istituto Facchetti
-        time: 2005 - 2020
+        time: 2015 - 2020
         details: |
 
 
@@ -85,7 +85,8 @@ certifications:
       title: Certifications
       list:
         - name: Certificate in Advanced English
-          end: 2018
+          start: 2018
+          end:
           organization: 
           credentialid: C1 Level
           credentialurl: https://www.cambridgeenglish.org/
@@ -93,24 +94,27 @@ certifications:
           details: |
 
 skills:
-    title: Operating Systems
-    toolset:
-      - name: Windows
-        level: 90%
-      - name: MacOS
-        level: 90%
-      - name: Linux
-        level: 70%
+    title: Skills &amp; Proficiency
+      - name: MacOS, Windows, Linux
+        level: 95%
+        
+      - name: Java, C, SQL
+        level: 95%
 
-skills:
-    title: Programming Languages
-    toolset:
-      - name: C
+      - name: CAD & Additive Manufacturing
+        level: 75%
+
+      - name: Soldering
         level: 95%
-      - name: Java
-        level: 95%
-      - name: SQL
-        level: 95%
+
+      - name: Microsoft Office & G-Suite
+        level: 85%
+
+      - name: Video Editing
+        level: 80%
+
+      - name: Sketch & Photoshop
+        level: 50%
       
 
 footer: >
