@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Giorgio Giacomotti
+    tagline: Computer Engineering Student
+    avatar: profile4.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: giacomottigiorgio@email.com
+    phone: +39 346 988 1127
+    timezone: Central European Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    website: https://www.giacomotti.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: 
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,37 +36,37 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Italian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Basic
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Automotive
           link:
 
-        - item: Snowboarding
+        - item: 
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra
+      ut risus ac ultricies. Pellentesque habitant morbi tristique senectus et netus
+      et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus
+      orci luctus et ultrices posuere cubilia curae; Nunc accumsan enim risus, vitae
+      facilisis velit imperdiet ac. Curabitur gravida luctus mauris, quis euismod
+      tellus semper ut. 
+    education:
     title: Education
     info:
       - degree: MSc in Computer Science
