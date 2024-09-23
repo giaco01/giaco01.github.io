@@ -95,6 +95,8 @@ certifications:
 
 skills:
     title: Skills &amp; Proficiency
+    
+    toolset:
       - name: MacOS, Windows, Linux
         level: 95%
         
