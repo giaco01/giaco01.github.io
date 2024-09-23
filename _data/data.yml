@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: giacomottigiorgio@gmail.com
     phone: +39 346 988 1127
-    timezone: Central Europe # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone:  # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Italian
     website: giacomotti.it # Include the full website URL, including "http://" or "https://".
     linkedin: 
