@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
+    position: Left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
@@ -71,20 +71,20 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Master Degree in Mechatronic Engineering
+      - degree: Currently pursuing a Master Degree in Mechatronic Engineering
         university: Politecnico di Torino
         time: 2024 -
-        details: currently pursuing
+        details: |
     
       - degree: Degree in Computer Engineering
         university: Università di Pavia
         time: 2021 - 2024
-        details: Graduated with a final grade of 101/110
+        details: Graduated with a final grade of 101/110.
 
       - degree: Diploma in Scientific Studies
         university: Istituto Facchetti
         time: 2015 - 2020
-        details: Graduated with a final grade of 85/100
+        details: Graduated with a final grade of 85/100.
 
 
 certifications:
