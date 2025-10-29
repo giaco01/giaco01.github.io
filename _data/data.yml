@@ -99,6 +99,48 @@ certifications:
           credentialname: Cambridge English
           details: |
 
+projects:
+  title: Projects
+  intro: >
+    A selection of academic and technical projects developed during my studies in
+    Mechatronics and Computer Engineering, focused on automation systems,
+    software design, and data-driven applications.
+  assignments:
+    - title: Simulation of a Parcel Printing and Sorting System
+      link: "#"
+      tagline: >
+        Design and implementation of a PLC-controlled automated parcel handling plant using CoDeSys and FluidSim.
+        The system performs weighing, stamping, and sorting operations with full HMI integration.
+        Developed employing SFC, Ladder Diagram, and Structured Text programming paradigms.
+
+    - title: Automatic Bottle Filling and Sorting System
+      link: "#"
+      tagline: >
+        Development of an automated bottling and sorting plant in Automation Studio.
+        The system fills crates with different beverages (Coke, Fanta, Pepsi) and sorts them based on product type,
+        showcasing multi-technique PLC programming and real-time 3D visualization.
+
+    - title: DriveSim GUI and Data Management System
+      link: "https://rams.unipv.it/"
+      tagline: >
+        Bachelor’s thesis project: design and development of an interactive GUI and data management module for
+        a 3-DOF rehabilitation driving simulator. Built in Unity with C# to enable configurable training
+        and exergame-based rehabilitation modes using motion tracking.
+
+    - title: JavaBeats – Music Player Application
+      link: "https://github.com/IngSW-unipv/Progetto-B24"
+      tagline: >
+        Java-based desktop application for audio playback and content management.
+        Features user and artist roles, playlist and album creation, and SQL-backed persistence.
+        Developed as part of the Software Engineering and Object-Oriented Programming course.
+
+    - title: Body Fat Percentage Predictor
+      link: "#"
+      tagline: >
+        Data-driven model for predicting body fat percentage using convolutional regression techniques in MATLAB.
+        Focused on improving estimation accuracy from limited datasets within the Model Identification and Data Analysis course.
+
+
 # skills:
 #    title: Skills &amp; Proficiency
     
