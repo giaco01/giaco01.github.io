@@ -117,7 +117,7 @@ projects:
       link: "#"
       tagline: >
         Development of an automated bottling and sorting plant in Automation Studio.
-        The system fills crates with different beverages (Coke, Fanta, Pepsi) and sorts them based on product type,
+        The system fills crates with different beverages and sorts them based on product type,
         showcasing multi-technique PLC programming and real-time 3D visualization.
 
     - title: DriveSim GUI and Data Management System
